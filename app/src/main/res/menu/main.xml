@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/action_save"
+          android:title="@string/action_save"
+          android:orderInCategory="100"
+          app:showAsAction="never"/>
+    <item android:id="@+id/action_record_history"
+          android:title="@string/records"
+          android:orderInCategory="100"
+          app:showAsAction="never"/>
+    <item android:id="@+id/hide_empty_variable"
+          android:title="@string/hide_empty_variable"
+          android:orderInCategory="100"
+          android:checkable="true"
+          android:checked="true"
+          app:showAsAction="never"/>
+    <item android:id="@+id/action_exit"
+          android:title="@string/action_exit"
+          android:orderInCategory="100"
+          app:showAsAction="never"/>
+</menu>

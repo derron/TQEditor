@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+            android:id="@+id/records"
+            android:title="@string/records"
+            android:icon="@android:drawable/ic_menu_view"/>
+
+    <item
+            android:id="@+id/variables"
+            android:title="@string/variables"
+            android:icon="@android:drawable/ic_menu_info_details"/>
+
+    <item
+            android:id="@+id/strings"
+            android:title="@string/strings"
+            android:icon="@android:drawable/ic_menu_search"/>
+
+    <item
+            android:id="@+id/texts"
+            android:title="@string/texts"
+            android:icon="@android:drawable/ic_menu_search"/>
+
+</menu>

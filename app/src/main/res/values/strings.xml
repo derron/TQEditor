@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TQEditor</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_save">Save</string>
+    <string name="name">Name:</string>
+    <string name="value">Value:</string>
+    <string name="search">Search</string>
+    <string name="records">Records</string>
+    <string name="variables">Variables</string>
+    <string name="strings">Strings</string>
+    <string name="action_exit">Exit</string>
+    <string name="texts">Texts</string>
+    <string name="hide_empty_variable">Hide empty variable</string>
+    <string name="data_type">Type:</string>
+</resources>
